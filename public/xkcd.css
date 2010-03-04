@@ -1,0 +1,8 @@
+#nav {
+  text-align: center;
+}
+
+#nav a{
+  float: left;
+  margin-right: 50px;
+}

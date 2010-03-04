@@ -1,0 +1,14 @@
+<h1>Usage:</h1>
+
+<h2>Clone the repository</h2>
+
+  git@github.com:bmleon2008/xkcd.git
+
+
+<h2>Install required gems using bundler</h2>
+
+  bundle install
+
+<h2>Start the app</h2>
+
+  rackup config.ru
